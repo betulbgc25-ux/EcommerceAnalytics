@@ -145,6 +145,6 @@ plt.savefig(
 plt.close()
 
 print(
-    "🎉 TÜM GRAFİKLER 'Presentation/Assets/' KLASÖRÜNE YÜKSEK KALİTEDE (PNG)"
+    " TÜM GRAFİKLER 'Presentation/Assets/' KLASÖRÜNE YÜKSEK KALİTEDE "
     " KAYDEDİLDİ!"
 )
